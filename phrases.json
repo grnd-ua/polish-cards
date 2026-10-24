@@ -1,0 +1,1208 @@
+[
+ {
+  "id": "f1",
+  "phrase": "Dzień dobry! Jak się pan ma?",
+  "translation_uk": "Добрий день! Як ви поживаєте?",
+  "note_uk": "Ввічливе привітання до чоловіка; до жінки — Jak się pani ma?"
+ },
+ {
+  "id": "f2",
+  "phrase": "Cześć! Co słychać?",
+  "translation_uk": "Привіт! Що нового?",
+  "note_uk": "Неформально, з друзями й знайомими."
+ },
+ {
+  "id": "f3",
+  "phrase": "Wszystko w porządku, dziękuję.",
+  "translation_uk": "Усе гаразд, дякую.",
+  "note_uk": "Стандартна відповідь на «Як справи?»."
+ },
+ {
+  "id": "f4",
+  "phrase": "Miło mi pana poznać.",
+  "translation_uk": "Приємно з вами познайомитися.",
+  "note_uk": "До жінки — Miło mi panią poznać. Неформально: Miło mi."
+ },
+ {
+  "id": "f5",
+  "phrase": "Mam na imię Paweł.",
+  "translation_uk": "Мене звати Павло.",
+  "note_uk": "Можна й коротше: Jestem Paweł."
+ },
+ {
+  "id": "f6",
+  "phrase": "Jestem z Ukrainy.",
+  "translation_uk": "Я з України.",
+  "note_uk": "Відповідь на Skąd pan jest? / Skąd jesteś?"
+ },
+ {
+  "id": "f7",
+  "phrase": "Mieszkam w Polsce od roku.",
+  "translation_uk": "Я живу в Польщі вже рік.",
+  "note_uk": "Після od — родовий: od roku, od miesiąca, od dwóch lat."
+ },
+ {
+  "id": "f8",
+  "phrase": "Nie mówię dobrze po polsku.",
+  "translation_uk": "Я погано говорю польською.",
+  "note_uk": "Корисно сказати на початку розмови — поляки тоді говорять повільніше."
+ },
+ {
+  "id": "f9",
+  "phrase": "Uczę się polskiego.",
+  "translation_uk": "Я вчу польську.",
+  "note_uk": ""
+ },
+ {
+  "id": "f10",
+  "phrase": "Proszę mówić wolniej.",
+  "translation_uk": "Говоріть, будь ласка, повільніше.",
+  "note_uk": "Одна з найкорисніших фраз для початківця."
+ },
+ {
+  "id": "f11",
+  "phrase": "Przepraszam, nie rozumiem.",
+  "translation_uk": "Вибачте, я не розумію.",
+  "note_uk": ""
+ },
+ {
+  "id": "f12",
+  "phrase": "Czy może pan powtórzyć?",
+  "translation_uk": "Чи можете ви повторити?",
+  "note_uk": "До жінки — Czy może pani powtórzyć?"
+ },
+ {
+  "id": "f13",
+  "phrase": "Co to znaczy?",
+  "translation_uk": "Що це означає?",
+  "note_uk": "Коли почули незнайоме слово."
+ },
+ {
+  "id": "f14",
+  "phrase": "Jak to się mówi po polsku?",
+  "translation_uk": "Як це сказати польською?",
+  "note_uk": ""
+ },
+ {
+  "id": "f15",
+  "phrase": "Czy mówi pan po angielsku?",
+  "translation_uk": "Ви говорите англійською?",
+  "note_uk": ""
+ },
+ {
+  "id": "f16",
+  "phrase": "Czy mogę mówić po ukraińsku?",
+  "translation_uk": "Можна мені говорити українською?",
+  "note_uk": "Багато поляків розуміють українську частково."
+ },
+ {
+  "id": "f17",
+  "phrase": "Nie ma problemu.",
+  "translation_uk": "Немає проблем.",
+  "note_uk": "Відповідь на прохання або вибачення."
+ },
+ {
+  "id": "f18",
+  "phrase": "Nic nie szkodzi.",
+  "translation_uk": "Нічого страшного.",
+  "note_uk": "Відповідь на Przepraszam."
+ },
+ {
+  "id": "f19",
+  "phrase": "Proszę bardzo.",
+  "translation_uk": "Прошу дуже; будь ласка.",
+  "note_uk": "Відповідь на Dziękuję."
+ },
+ {
+  "id": "f20",
+  "phrase": "Dziękuję, nawzajem!",
+  "translation_uk": "Дякую, навзаєм!",
+  "note_uk": "Відповідь на побажання: Miłego dnia! — Dziękuję, nawzajem!"
+ },
+ {
+  "id": "f21",
+  "phrase": "Miłego dnia!",
+  "translation_uk": "Гарного дня!",
+  "note_uk": "Часто кажуть продавці та касири на прощання."
+ },
+ {
+  "id": "f22",
+  "phrase": "Do zobaczenia!",
+  "translation_uk": "До зустрічі!",
+  "note_uk": ""
+ },
+ {
+  "id": "f23",
+  "phrase": "Na razie!",
+  "translation_uk": "Бувай! Поки!",
+  "note_uk": "Неформальне прощання."
+ },
+ {
+  "id": "f24",
+  "phrase": "Smacznego!",
+  "translation_uk": "Смачного!",
+  "note_uk": "Кажуть перед їжею; відповідь — Dziękuję, nawzajem."
+ },
+ {
+  "id": "f25",
+  "phrase": "Na zdrowie!",
+  "translation_uk": "На здоровʼя! Будьмо!",
+  "note_uk": "Тост, а також коли хтось чхнув."
+ },
+ {
+  "id": "f26",
+  "phrase": "Wszystkiego najlepszego!",
+  "translation_uk": "Усього найкращого!",
+  "note_uk": "Привітання з днем народження, святом."
+ },
+ {
+  "id": "f27",
+  "phrase": "Wesołych Świąt!",
+  "translation_uk": "Веселих свят!",
+  "note_uk": "Різдво чи Великдень."
+ },
+ {
+  "id": "f28",
+  "phrase": "Gratuluję!",
+  "translation_uk": "Вітаю!",
+  "note_uk": "Коли хтось чогось досяг."
+ },
+ {
+  "id": "f29",
+  "phrase": "Powodzenia!",
+  "translation_uk": "Успіхів! Щасти!",
+  "note_uk": ""
+ },
+ {
+  "id": "f30",
+  "phrase": "Trzymam kciuki!",
+  "translation_uk": "Тримаю кулаки!",
+  "note_uk": "Дослівно «тримаю великі пальці»."
+ },
+ {
+  "id": "f31",
+  "phrase": "Jak minął weekend?",
+  "translation_uk": "Як минули вихідні?",
+  "note_uk": "Типова розмова в понеділок."
+ },
+ {
+  "id": "f32",
+  "phrase": "Ładna dziś pogoda, prawda?",
+  "translation_uk": "Гарна сьогодні погода, правда?",
+  "note_uk": "Легкий small talk."
+ },
+ {
+  "id": "f33",
+  "phrase": "Ale zimno dzisiaj!",
+  "translation_uk": "Ну й холодно сьогодні!",
+  "note_uk": "Ale на початку речення підсилює емоцію."
+ },
+ {
+  "id": "f34",
+  "phrase": "Gdzie pan pracuje?",
+  "translation_uk": "Де ви працюєте?",
+  "note_uk": ""
+ },
+ {
+  "id": "f35",
+  "phrase": "Czym się pan zajmuje?",
+  "translation_uk": "Чим ви займаєтеся?",
+  "note_uk": "Ввічливе запитання про професію."
+ },
+ {
+  "id": "f36",
+  "phrase": "Masz dzieci?",
+  "translation_uk": "У тебе є діти?",
+  "note_uk": ""
+ },
+ {
+  "id": "f37",
+  "phrase": "Masz ochotę na kawę?",
+  "translation_uk": "Хочеш кави?",
+  "note_uk": "mieć ochotę na — мати бажання."
+ },
+ {
+  "id": "f38",
+  "phrase": "Chętnie!",
+  "translation_uk": "Залюбки!",
+  "note_uk": "Відповідь на запрошення."
+ },
+ {
+  "id": "f39",
+  "phrase": "Niestety nie mogę.",
+  "translation_uk": "На жаль, я не можу.",
+  "note_uk": "Ввічлива відмова."
+ },
+ {
+  "id": "f40",
+  "phrase": "Może innym razem.",
+  "translation_uk": "Може, іншим разом.",
+  "note_uk": ""
+ },
+ {
+  "id": "f41",
+  "phrase": "Pasuje ci w sobotę?",
+  "translation_uk": "Тобі підходить у суботу?",
+  "note_uk": ""
+ },
+ {
+  "id": "f42",
+  "phrase": "Spotkajmy się o szóstej.",
+  "translation_uk": "Зустріньмося о шостій.",
+  "note_uk": ""
+ },
+ {
+  "id": "f43",
+  "phrase": "Poproszę bochenek chleba.",
+  "translation_uk": "Буханку хліба, будь ласка.",
+  "note_uk": "Poproszę — найзручніший спосіб щось попросити в магазині."
+ },
+ {
+  "id": "f44",
+  "phrase": "Poproszę to.",
+  "translation_uk": "Мені це, будь ласка.",
+  "note_uk": "Можна показати пальцем."
+ },
+ {
+  "id": "f45",
+  "phrase": "Ile to kosztuje?",
+  "translation_uk": "Скільки це коштує?",
+  "note_uk": ""
+ },
+ {
+  "id": "f46",
+  "phrase": "Ile płacę?",
+  "translation_uk": "Скільки з мене?",
+  "note_uk": ""
+ },
+ {
+  "id": "f47",
+  "phrase": "Czy mogę zapłacić kartą?",
+  "translation_uk": "Можна заплатити карткою?",
+  "note_uk": ""
+ },
+ {
+  "id": "f48",
+  "phrase": "Płacę gotówką.",
+  "translation_uk": "Я плачу готівкою.",
+  "note_uk": ""
+ },
+ {
+  "id": "f49",
+  "phrase": "Czy jest zniżka?",
+  "translation_uk": "Чи є знижка?",
+  "note_uk": ""
+ },
+ {
+  "id": "f50",
+  "phrase": "Szukam mleka bez laktozy.",
+  "translation_uk": "Я шукаю безлактозне молоко.",
+  "note_uk": "Після szukać — родовий відмінок."
+ },
+ {
+  "id": "f51",
+  "phrase": "Gdzie znajdę chleb?",
+  "translation_uk": "Де я знайду хліб?",
+  "note_uk": ""
+ },
+ {
+  "id": "f52",
+  "phrase": "Czy macie to w innym rozmiarze?",
+  "translation_uk": "У вас є це в іншому розмірі?",
+  "note_uk": ""
+ },
+ {
+  "id": "f53",
+  "phrase": "Czy mogę to przymierzyć?",
+  "translation_uk": "Можна це приміряти?",
+  "note_uk": ""
+ },
+ {
+  "id": "f54",
+  "phrase": "Biorę to.",
+  "translation_uk": "Я це беру.",
+  "note_uk": ""
+ },
+ {
+  "id": "f55",
+  "phrase": "Tylko oglądam, dziękuję.",
+  "translation_uk": "Я лише дивлюся, дякую.",
+  "note_uk": "Коли продавець питає W czymś pomóc?"
+ },
+ {
+  "id": "f56",
+  "phrase": "Czy potrzebuje pan torby?",
+  "translation_uk": "Вам потрібен пакет?",
+  "note_uk": "Почуєте на касі; відповідь — Tak, poproszę / Nie, dziękuję."
+ },
+ {
+  "id": "f57",
+  "phrase": "Czy ma pan kartę lojalnościową?",
+  "translation_uk": "У вас є картка лояльності?",
+  "note_uk": "Типове запитання на касі."
+ },
+ {
+  "id": "f58",
+  "phrase": "Paragon, proszę.",
+  "translation_uk": "Чек, будь ласка.",
+  "note_uk": ""
+ },
+ {
+  "id": "f59",
+  "phrase": "Chcę zwrócić ten produkt.",
+  "translation_uk": "Я хочу повернути цей товар.",
+  "note_uk": "Майте з собою paragon."
+ },
+ {
+  "id": "f60",
+  "phrase": "To jest zepsute.",
+  "translation_uk": "Це зламане (зіпсоване).",
+  "note_uk": ""
+ },
+ {
+  "id": "f61",
+  "phrase": "Czy jest jeszcze świeży chleb?",
+  "translation_uk": "Чи є ще свіжий хліб?",
+  "note_uk": ""
+ },
+ {
+  "id": "f62",
+  "phrase": "Poproszę pół kilo pomidorów.",
+  "translation_uk": "Пів кілограма помідорів, будь ласка.",
+  "note_uk": ""
+ },
+ {
+  "id": "f63",
+  "phrase": "Czy to jest w promocji?",
+  "translation_uk": "Це по акції?",
+  "note_uk": ""
+ },
+ {
+  "id": "f64",
+  "phrase": "Gdzie jest kasa samoobsługowa?",
+  "translation_uk": "Де каса самообслуговування?",
+  "note_uk": ""
+ },
+ {
+  "id": "f65",
+  "phrase": "Stolik dla dwóch osób, proszę.",
+  "translation_uk": "Столик на двох, будь ласка.",
+  "note_uk": ""
+ },
+ {
+  "id": "f66",
+  "phrase": "Poproszę menu.",
+  "translation_uk": "Меню, будь ласка.",
+  "note_uk": ""
+ },
+ {
+  "id": "f67",
+  "phrase": "Co pan poleca?",
+  "translation_uk": "Що ви порадите?",
+  "note_uk": ""
+ },
+ {
+  "id": "f68",
+  "phrase": "Dla mnie zupa pomidorowa.",
+  "translation_uk": "Мені томатний суп.",
+  "note_uk": "Dla mnie... — зручний спосіб замовити."
+ },
+ {
+  "id": "f69",
+  "phrase": "Poproszę wodę niegazowaną.",
+  "translation_uk": "Негазовану воду, будь ласка.",
+  "note_uk": "Газовану — gazowaną."
+ },
+ {
+  "id": "f70",
+  "phrase": "Czy to jest ostre?",
+  "translation_uk": "Це гостре?",
+  "note_uk": ""
+ },
+ {
+  "id": "f71",
+  "phrase": "Jestem wegetarianinem.",
+  "translation_uk": "Я вегетаріанець.",
+  "note_uk": "Жінка — wegetarianką."
+ },
+ {
+  "id": "f72",
+  "phrase": "Mam alergię na orzechy.",
+  "translation_uk": "У мене алергія на горіхи.",
+  "note_uk": ""
+ },
+ {
+  "id": "f73",
+  "phrase": "Poproszę rachunek.",
+  "translation_uk": "Рахунок, будь ласка.",
+  "note_uk": ""
+ },
+ {
+  "id": "f74",
+  "phrase": "Czy mogę zapłacić osobno?",
+  "translation_uk": "Можна заплатити окремо?",
+  "note_uk": ""
+ },
+ {
+  "id": "f75",
+  "phrase": "Reszty nie trzeba.",
+  "translation_uk": "Решти не треба.",
+  "note_uk": "Так залишають чайові."
+ },
+ {
+  "id": "f76",
+  "phrase": "Na wynos, proszę.",
+  "translation_uk": "З собою, будь ласка.",
+  "note_uk": "На місці — na miejscu."
+ },
+ {
+  "id": "f77",
+  "phrase": "Gdzie jest toaleta?",
+  "translation_uk": "Де туалет?",
+  "note_uk": ""
+ },
+ {
+  "id": "f78",
+  "phrase": "Przepraszam, jak dojść do dworca?",
+  "translation_uk": "Перепрошую, як дійти до вокзалу?",
+  "note_uk": "dojść — дійти пішки, dojechać — доїхати."
+ },
+ {
+  "id": "f79",
+  "phrase": "Czy to daleko stąd?",
+  "translation_uk": "Це далеко звідси?",
+  "note_uk": ""
+ },
+ {
+  "id": "f80",
+  "phrase": "Jak dojechać do centrum?",
+  "translation_uk": "Як доїхати до центру?",
+  "note_uk": ""
+ },
+ {
+  "id": "f81",
+  "phrase": "Który autobus jedzie na lotnisko?",
+  "translation_uk": "Який автобус їде в аеропорт?",
+  "note_uk": ""
+ },
+ {
+  "id": "f82",
+  "phrase": "Gdzie mogę kupić bilet?",
+  "translation_uk": "Де я можу купити квиток?",
+  "note_uk": ""
+ },
+ {
+  "id": "f83",
+  "phrase": "Jeden bilet normalny, proszę.",
+  "translation_uk": "Один повний квиток, будь ласка.",
+  "note_uk": "Пільговий — ulgowy."
+ },
+ {
+  "id": "f84",
+  "phrase": "Czy ten pociąg jedzie do Krakowa?",
+  "translation_uk": "Цей потяг їде до Кракова?",
+  "note_uk": ""
+ },
+ {
+  "id": "f85",
+  "phrase": "Z którego peronu odjeżdża pociąg?",
+  "translation_uk": "З якої платформи відправляється потяг?",
+  "note_uk": ""
+ },
+ {
+  "id": "f86",
+  "phrase": "O której jest następny pociąg?",
+  "translation_uk": "О котрій наступний потяг?",
+  "note_uk": ""
+ },
+ {
+  "id": "f87",
+  "phrase": "Czy pan wysiada na następnym?",
+  "translation_uk": "Ви виходите на наступній?",
+  "note_uk": "Питають у переповненому транспорті, щоб пройти до дверей."
+ },
+ {
+  "id": "f88",
+  "phrase": "Proszę się zatrzymać tutaj.",
+  "translation_uk": "Зупиніться тут, будь ласка.",
+  "note_uk": "Таксисту."
+ },
+ {
+  "id": "f89",
+  "phrase": "Ile kosztuje kurs na lotnisko?",
+  "translation_uk": "Скільки коштує поїздка до аеропорту?",
+  "note_uk": "kurs — поїздка таксі."
+ },
+ {
+  "id": "f90",
+  "phrase": "Zgubiłem się.",
+  "translation_uk": "Я заблукав.",
+  "note_uk": "Жінка — Zgubiłam się."
+ },
+ {
+  "id": "f91",
+  "phrase": "Proszę mi pokazać na mapie.",
+  "translation_uk": "Покажіть мені, будь ласка, на мапі.",
+  "note_uk": ""
+ },
+ {
+  "id": "f92",
+  "phrase": "Pociąg jest opóźniony.",
+  "translation_uk": "Потяг запізнюється.",
+  "note_uk": ""
+ },
+ {
+  "id": "f93",
+  "phrase": "Halo, słucham?",
+  "translation_uk": "Алло, слухаю?",
+  "note_uk": "Так відповідають на дзвінок."
+ },
+ {
+  "id": "f94",
+  "phrase": "Dzień dobry, z tej strony Paweł Grinczenko.",
+  "translation_uk": "Добрий день, це Павло Грінченко.",
+  "note_uk": "z tej strony — стандартне представлення по телефону."
+ },
+ {
+  "id": "f95",
+  "phrase": "Dzwonię w sprawie ogłoszenia.",
+  "translation_uk": "Я дзвоню щодо оголошення.",
+  "note_uk": "w sprawie + родовий — «щодо»."
+ },
+ {
+  "id": "f96",
+  "phrase": "Czy mogę rozmawiać z panią Kowalską?",
+  "translation_uk": "Чи можу я поговорити з пані Ковальською?",
+  "note_uk": ""
+ },
+ {
+  "id": "f97",
+  "phrase": "Proszę chwilę poczekać.",
+  "translation_uk": "Зачекайте хвилинку, будь ласка.",
+  "note_uk": ""
+ },
+ {
+  "id": "f98",
+  "phrase": "Przepraszam, nie słyszę pana.",
+  "translation_uk": "Вибачте, я вас не чую.",
+  "note_uk": ""
+ },
+ {
+  "id": "f99",
+  "phrase": "Czy może pan przeliterować?",
+  "translation_uk": "Чи можете ви сказати по літерах?",
+  "note_uk": "Корисно для імен та адрес."
+ },
+ {
+  "id": "f100",
+  "phrase": "Oddzwonię później.",
+  "translation_uk": "Я передзвоню пізніше.",
+  "note_uk": ""
+ },
+ {
+  "id": "f101",
+  "phrase": "Proszę do mnie oddzwonić.",
+  "translation_uk": "Передзвоніть мені, будь ласка.",
+  "note_uk": ""
+ },
+ {
+  "id": "f102",
+  "phrase": "Pomyłka.",
+  "translation_uk": "Ви помилилися номером.",
+  "note_uk": "Дослівно «помилка»."
+ },
+ {
+  "id": "f103",
+  "phrase": "Chciałbym umówić się na wizytę.",
+  "translation_uk": "Я хотів би записатися на прийом.",
+  "note_uk": "Жінка — Chciałabym. Chciałbym — ввічливе «я хотів би»."
+ },
+ {
+  "id": "f104",
+  "phrase": "Czy jest wolny termin w tym tygodniu?",
+  "translation_uk": "Чи є вільний час на цьому тижні?",
+  "note_uk": ""
+ },
+ {
+  "id": "f105",
+  "phrase": "Co panu dolega?",
+  "translation_uk": "Що вас турбує?",
+  "note_uk": "Типове запитання лікаря."
+ },
+ {
+  "id": "f106",
+  "phrase": "Źle się czuję.",
+  "translation_uk": "Я погано почуваюся.",
+  "note_uk": ""
+ },
+ {
+  "id": "f107",
+  "phrase": "Boli mnie gardło.",
+  "translation_uk": "У мене болить горло.",
+  "note_uk": "Boli mnie + називний відмінок: głowa, brzuch, ząb."
+ },
+ {
+  "id": "f108",
+  "phrase": "Bolą mnie plecy.",
+  "translation_uk": "У мене болить спина.",
+  "note_uk": "Множина: bolą mnie nogi, plecy, oczy."
+ },
+ {
+  "id": "f109",
+  "phrase": "Mam gorączkę od wczoraj.",
+  "translation_uk": "У мене температура з учорашнього дня.",
+  "note_uk": ""
+ },
+ {
+  "id": "f110",
+  "phrase": "Mam kaszel i katar.",
+  "translation_uk": "У мене кашель і нежить.",
+  "note_uk": ""
+ },
+ {
+  "id": "f111",
+  "phrase": "Kręci mi się w głowie.",
+  "translation_uk": "У мене паморочиться в голові.",
+  "note_uk": ""
+ },
+ {
+  "id": "f112",
+  "phrase": "Jestem uczulony na penicylinę.",
+  "translation_uk": "У мене алергія на пеніцилін.",
+  "note_uk": "Жінка — uczulona."
+ },
+ {
+  "id": "f113",
+  "phrase": "Biorę leki na ciśnienie.",
+  "translation_uk": "Я приймаю ліки від тиску.",
+  "note_uk": ""
+ },
+ {
+  "id": "f114",
+  "phrase": "Czy potrzebuję recepty?",
+  "translation_uk": "Мені потрібен рецепт?",
+  "note_uk": ""
+ },
+ {
+  "id": "f115",
+  "phrase": "Jak często brać ten lek?",
+  "translation_uk": "Як часто приймати ці ліки?",
+  "note_uk": ""
+ },
+ {
+  "id": "f116",
+  "phrase": "Dwa razy dziennie po jedzeniu.",
+  "translation_uk": "Двічі на день після їжі.",
+  "note_uk": "Почуєте від лікаря чи фармацевта."
+ },
+ {
+  "id": "f117",
+  "phrase": "Poproszę coś na ból głowy.",
+  "translation_uk": "Дайте щось від головного болю, будь ласка.",
+  "note_uk": "coś na + знахідний — «щось від»."
+ },
+ {
+  "id": "f118",
+  "phrase": "Czy mogę dostać zwolnienie lekarskie?",
+  "translation_uk": "Чи можу я отримати лікарняний?",
+  "note_uk": ""
+ },
+ {
+  "id": "f119",
+  "phrase": "Potrzebuję skierowania do specjalisty.",
+  "translation_uk": "Мені потрібне направлення до спеціаліста.",
+  "note_uk": ""
+ },
+ {
+  "id": "f120",
+  "phrase": "Jestem ubezpieczony w NFZ.",
+  "translation_uk": "Я застрахований у NFZ.",
+  "note_uk": "NFZ — державний фонд медичного страхування."
+ },
+ {
+  "id": "f121",
+  "phrase": "Proszę wezwać karetkę!",
+  "translation_uk": "Викличте швидку!",
+  "note_uk": "Номер екстрених служб — 112."
+ },
+ {
+  "id": "f122",
+  "phrase": "To pilne.",
+  "translation_uk": "Це терміново.",
+  "note_uk": ""
+ },
+ {
+  "id": "f123",
+  "phrase": "Gdzie jest najbliższy szpital?",
+  "translation_uk": "Де найближча лікарня?",
+  "note_uk": ""
+ },
+ {
+  "id": "f124",
+  "phrase": "Gdzie jest najbliższa apteka całodobowa?",
+  "translation_uk": "Де найближча цілодобова аптека?",
+  "note_uk": ""
+ },
+ {
+  "id": "f125",
+  "phrase": "Proszę się rozebrać do pasa.",
+  "translation_uk": "Роздягніться, будь ласка, до пояса.",
+  "note_uk": "Почуєте в кабінеті лікаря."
+ },
+ {
+  "id": "f126",
+  "phrase": "Proszę głęboko oddychać.",
+  "translation_uk": "Дихайте глибоко.",
+  "note_uk": ""
+ },
+ {
+  "id": "f127",
+  "phrase": "Chciałbym złożyć wniosek.",
+  "translation_uk": "Я хотів би подати заяву.",
+  "note_uk": ""
+ },
+ {
+  "id": "f128",
+  "phrase": "Gdzie mogę pobrać numerek?",
+  "translation_uk": "Де я можу взяти талончик?",
+  "note_uk": "У багатьох установах черга за номерками."
+ },
+ {
+  "id": "f129",
+  "phrase": "Jakie dokumenty są potrzebne?",
+  "translation_uk": "Які документи потрібні?",
+  "note_uk": ""
+ },
+ {
+  "id": "f130",
+  "phrase": "Czy mogę to załatwić online?",
+  "translation_uk": "Чи можу я оформити це онлайн?",
+  "note_uk": "załatwić sprawę — залагодити справу."
+ },
+ {
+  "id": "f131",
+  "phrase": "Przyszedłem odebrać kartę pobytu.",
+  "translation_uk": "Я прийшов забрати карту побиту.",
+  "note_uk": "Жінка — Przyszłam."
+ },
+ {
+  "id": "f132",
+  "phrase": "Kiedy będzie gotowa decyzja?",
+  "translation_uk": "Коли буде готове рішення?",
+  "note_uk": ""
+ },
+ {
+  "id": "f133",
+  "phrase": "Na jakim etapie jest moja sprawa?",
+  "translation_uk": "На якому етапі моя справа?",
+  "note_uk": ""
+ },
+ {
+  "id": "f134",
+  "phrase": "Nie mam jeszcze numeru PESEL.",
+  "translation_uk": "У мене ще немає номера PESEL.",
+  "note_uk": ""
+ },
+ {
+  "id": "f135",
+  "phrase": "Chcę się zameldować.",
+  "translation_uk": "Я хочу зареєструватися за адресою.",
+  "note_uk": "zameldowanie — реєстрація місця проживання."
+ },
+ {
+  "id": "f136",
+  "phrase": "Gdzie mam się podpisać?",
+  "translation_uk": "Де мені підписатися?",
+  "note_uk": ""
+ },
+ {
+  "id": "f137",
+  "phrase": "Czy mogę prosić o kopię?",
+  "translation_uk": "Можна попросити копію?",
+  "note_uk": ""
+ },
+ {
+  "id": "f138",
+  "phrase": "Proszę wypełnić ten formularz.",
+  "translation_uk": "Заповніть, будь ласка, цей бланк.",
+  "note_uk": ""
+ },
+ {
+  "id": "f139",
+  "phrase": "Czy może mi pan pomóc wypełnić wniosek?",
+  "translation_uk": "Чи можете ви допомогти мені заповнити заяву?",
+  "note_uk": ""
+ },
+ {
+  "id": "f140",
+  "phrase": "Do którego okienka mam podejść?",
+  "translation_uk": "До якого віконця мені підійти?",
+  "note_uk": ""
+ },
+ {
+  "id": "f141",
+  "phrase": "Brakuje jednego dokumentu.",
+  "translation_uk": "Бракує одного документа.",
+  "note_uk": "brakuje + родовий відмінок."
+ },
+ {
+  "id": "f142",
+  "phrase": "Proszę przyjść za tydzień.",
+  "translation_uk": "Приходьте через тиждень.",
+  "note_uk": ""
+ },
+ {
+  "id": "f143",
+  "phrase": "Dzwonię w sprawie mieszkania.",
+  "translation_uk": "Я дзвоню щодо квартири.",
+  "note_uk": ""
+ },
+ {
+  "id": "f144",
+  "phrase": "Czy mieszkanie jest jeszcze dostępne?",
+  "translation_uk": "Квартира ще доступна?",
+  "note_uk": ""
+ },
+ {
+  "id": "f145",
+  "phrase": "Ile wynosi czynsz?",
+  "translation_uk": "Яка орендна плата?",
+  "note_uk": ""
+ },
+ {
+  "id": "f146",
+  "phrase": "Czy czynsz obejmuje media?",
+  "translation_uk": "Чи входять комунальні послуги в оплату?",
+  "note_uk": "media — комуналка: світло, газ, вода."
+ },
+ {
+  "id": "f147",
+  "phrase": "Ile wynosi kaucja?",
+  "translation_uk": "Яка застава?",
+  "note_uk": ""
+ },
+ {
+  "id": "f148",
+  "phrase": "Czy mogę obejrzeć mieszkanie?",
+  "translation_uk": "Чи можу я подивитися квартиру?",
+  "note_uk": ""
+ },
+ {
+  "id": "f149",
+  "phrase": "Czy można mieszkać ze zwierzętami?",
+  "translation_uk": "Чи можна жити з тваринами?",
+  "note_uk": ""
+ },
+ {
+  "id": "f150",
+  "phrase": "Od kiedy mieszkanie jest wolne?",
+  "translation_uk": "З якого часу квартира вільна?",
+  "note_uk": ""
+ },
+ {
+  "id": "f151",
+  "phrase": "Na jak długo jest umowa?",
+  "translation_uk": "На який термін договір?",
+  "note_uk": ""
+ },
+ {
+  "id": "f152",
+  "phrase": "Chciałbym podpisać umowę.",
+  "translation_uk": "Я хотів би підписати договір.",
+  "note_uk": ""
+ },
+ {
+  "id": "f153",
+  "phrase": "W mieszkaniu nie ma ciepłej wody.",
+  "translation_uk": "У квартирі немає гарячої води.",
+  "note_uk": ""
+ },
+ {
+  "id": "f154",
+  "phrase": "Kran cieknie.",
+  "translation_uk": "Кран протікає.",
+  "note_uk": ""
+ },
+ {
+  "id": "f155",
+  "phrase": "Ogrzewanie nie działa.",
+  "translation_uk": "Опалення не працює.",
+  "note_uk": ""
+ },
+ {
+  "id": "f156",
+  "phrase": "Kiedy może przyjść hydraulik?",
+  "translation_uk": "Коли може прийти сантехнік?",
+  "note_uk": "hydraulik — сантехнік; elektryk — електрик."
+ },
+ {
+  "id": "f157",
+  "phrase": "Zepsuła się pralka.",
+  "translation_uk": "Зламалася пральна машина.",
+  "note_uk": ""
+ },
+ {
+  "id": "f158",
+  "phrase": "Przelałem czynsz na pana konto.",
+  "translation_uk": "Я переказав оплату на ваш рахунок.",
+  "note_uk": "Жінка — Przelałam."
+ },
+ {
+  "id": "f159",
+  "phrase": "Chciałbym wypowiedzieć umowę.",
+  "translation_uk": "Я хотів би розірвати договір.",
+  "note_uk": "wypowiedzenie — повідомлення про розірвання."
+ },
+ {
+  "id": "f160",
+  "phrase": "Kiedy dostanę zwrot kaucji?",
+  "translation_uk": "Коли я отримаю назад заставу?",
+  "note_uk": ""
+ },
+ {
+  "id": "f161",
+  "phrase": "Sąsiedzi są bardzo głośni.",
+  "translation_uk": "Сусіди дуже гучні.",
+  "note_uk": ""
+ },
+ {
+  "id": "f162",
+  "phrase": "Gdzie wyrzuca się śmieci?",
+  "translation_uk": "Куди викидають сміття?",
+  "note_uk": "У Польщі сортують сміття за кольорами контейнерів."
+ },
+ {
+  "id": "f163",
+  "phrase": "Zgubiłem klucze.",
+  "translation_uk": "Я загубив ключі.",
+  "note_uk": "Жінка — Zgubiłam."
+ },
+ {
+  "id": "f164",
+  "phrase": "Czy mogę zostawić u pani paczkę?",
+  "translation_uk": "Чи можу я залишити у вас посилку?",
+  "note_uk": ""
+ },
+ {
+  "id": "f165",
+  "phrase": "Pomocy!",
+  "translation_uk": "Допоможіть!",
+  "note_uk": ""
+ },
+ {
+  "id": "f166",
+  "phrase": "Proszę zadzwonić na policję!",
+  "translation_uk": "Подзвоніть у поліцію!",
+  "note_uk": ""
+ },
+ {
+  "id": "f167",
+  "phrase": "Ukradli mi portfel.",
+  "translation_uk": "У мене вкрали гаманець.",
+  "note_uk": ""
+ },
+ {
+  "id": "f168",
+  "phrase": "Miałem wypadek.",
+  "translation_uk": "Я потрапив в аварію.",
+  "note_uk": "Жінка — Miałam."
+ },
+ {
+  "id": "f169",
+  "phrase": "Proszę się nie martwić.",
+  "translation_uk": "Не хвилюйтеся, будь ласка.",
+  "note_uk": ""
+ },
+ {
+  "id": "f170",
+  "phrase": "Spóźnię się dziesięć minut.",
+  "translation_uk": "Я запізнюся на десять хвилин.",
+  "note_uk": ""
+ },
+ {
+  "id": "f171",
+  "phrase": "Przepraszam za spóźnienie.",
+  "translation_uk": "Вибачте за запізнення.",
+  "note_uk": ""
+ },
+ {
+  "id": "f172",
+  "phrase": "Zaraz będę.",
+  "translation_uk": "Зараз буду.",
+  "note_uk": ""
+ },
+ {
+  "id": "f173",
+  "phrase": "Gdzie się spotkamy?",
+  "translation_uk": "Де ми зустрінемося?",
+  "note_uk": ""
+ },
+ {
+  "id": "f174",
+  "phrase": "Daj znać.",
+  "translation_uk": "Дай знати.",
+  "note_uk": "Дуже поширено в повідомленнях."
+ },
+ {
+  "id": "f175",
+  "phrase": "Nie ma sprawy.",
+  "translation_uk": "Без проблем.",
+  "note_uk": "Розмовна відповідь на прохання."
+ },
+ {
+  "id": "f176",
+  "phrase": "Jasne!",
+  "translation_uk": "Звісно! Ясно!",
+  "note_uk": ""
+ },
+ {
+  "id": "f177",
+  "phrase": "Zgoda.",
+  "translation_uk": "Домовились.",
+  "note_uk": ""
+ },
+ {
+  "id": "f178",
+  "phrase": "Szkoda.",
+  "translation_uk": "Шкода.",
+  "note_uk": ""
+ },
+ {
+  "id": "f179",
+  "phrase": "Nie wiem.",
+  "translation_uk": "Не знаю.",
+  "note_uk": ""
+ },
+ {
+  "id": "f180",
+  "phrase": "Nie jestem pewien.",
+  "translation_uk": "Я не впевнений.",
+  "note_uk": "Жінка — pewna."
+ },
+ {
+  "id": "f181",
+  "phrase": "To zależy.",
+  "translation_uk": "Залежить.",
+  "note_uk": ""
+ },
+ {
+  "id": "f182",
+  "phrase": "Masz rację.",
+  "translation_uk": "Ти маєш рацію.",
+  "note_uk": "До «ви» — Ma pan rację."
+ },
+ {
+  "id": "f183",
+  "phrase": "Mam pytanie.",
+  "translation_uk": "У мене запитання.",
+  "note_uk": ""
+ },
+ {
+  "id": "f184",
+  "phrase": "Czy mogę prosić o pomoc?",
+  "translation_uk": "Чи можу я попросити про допомогу?",
+  "note_uk": ""
+ },
+ {
+  "id": "f185",
+  "phrase": "Czy tu jest wolne?",
+  "translation_uk": "Тут вільно?",
+  "note_uk": ""
+ },
+ {
+  "id": "f186",
+  "phrase": "Czy mogę tu usiąść?",
+  "translation_uk": "Можна тут сісти?",
+  "note_uk": ""
+ },
+ {
+  "id": "f187",
+  "phrase": "Która jest godzina?",
+  "translation_uk": "Котра година?",
+  "note_uk": ""
+ },
+ {
+  "id": "f188",
+  "phrase": "Jest wpół do piątej.",
+  "translation_uk": "Пів на пʼяту.",
+  "note_uk": "wpół do + родовий порядкового: wpół do piątej = 4:30."
+ },
+ {
+  "id": "f189",
+  "phrase": "Jest kwadrans po trzeciej.",
+  "translation_uk": "Чверть на четверту (3:15).",
+  "note_uk": "kwadrans — чверть години."
+ },
+ {
+  "id": "f190",
+  "phrase": "Mam wolne w piątek.",
+  "translation_uk": "У пʼятницю в мене вихідний.",
+  "note_uk": ""
+ },
+ {
+  "id": "f191",
+  "phrase": "O której kończysz pracę?",
+  "translation_uk": "О котрій ти закінчуєш роботу?",
+  "note_uk": ""
+ },
+ {
+  "id": "f192",
+  "phrase": "Jestem zmęczony.",
+  "translation_uk": "Я втомився.",
+  "note_uk": "Жінка — zmęczona."
+ },
+ {
+  "id": "f193",
+  "phrase": "Jestem głodny.",
+  "translation_uk": "Я голодний.",
+  "note_uk": "Жінка — głodna."
+ },
+ {
+  "id": "f194",
+  "phrase": "Dobrze ci idzie!",
+  "translation_uk": "У тебе добре виходить!",
+  "note_uk": ""
+ },
+ {
+  "id": "f195",
+  "phrase": "Nie przejmuj się.",
+  "translation_uk": "Не переймайся.",
+  "note_uk": ""
+ },
+ {
+  "id": "f196",
+  "phrase": "Jak się nazywa ta ulica?",
+  "translation_uk": "Як називається ця вулиця?",
+  "note_uk": ""
+ },
+ {
+  "id": "f197",
+  "phrase": "Czy mogę skorzystać z toalety?",
+  "translation_uk": "Чи можу я скористатися туалетом?",
+  "note_uk": ""
+ },
+ {
+  "id": "f198",
+  "phrase": "Mogę prosić hasło do wi-fi?",
+  "translation_uk": "Можна попросити пароль від вай-фаю?",
+  "note_uk": ""
+ },
+ {
+  "id": "f199",
+  "phrase": "Nie mam zasięgu.",
+  "translation_uk": "У мене немає звʼязку.",
+  "note_uk": "zasięg — покриття мобільного звʼязку."
+ },
+ {
+  "id": "f200",
+  "phrase": "Rozładował mi się telefon.",
+  "translation_uk": "У мене розрядився телефон.",
+  "note_uk": ""
+ },
+ {
+  "id": "f201",
+  "phrase": "Czy można tu płacić BLIK-iem?",
+  "translation_uk": "Тут можна платити BLIK?",
+  "note_uk": "BLIK — популярна в Польщі оплата кодом з банківського застосунку."
+ }
+]
